@@ -1,0 +1,10 @@
+body {
+    background-color: blue;
+    color: white
+    font-family: "bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-intems:center;
+    height: 700px;
+    margin: 0
+}
